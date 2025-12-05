@@ -70,4 +70,5 @@ Yo sé que somos de primer semestre y. que el profe debe adaptarse a los estudia
 
 Esta materia me abrió los ojos a lo que de verdad es ser ingeniero, más allá de programar. Me motivó a planear mejor mi carrera y entender que el éxito viene de combinar skills técnicas con profesionalismo. Buen cierre para arrancar con todo.
 ## GRACIAS PROFE NOS SEGUIMOS VIENDO...
+# SE ACABO EL SEMESTRE, FELIZ NAVIDAD.
 

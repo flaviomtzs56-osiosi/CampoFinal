@@ -1,6 +1,6 @@
 # Campo Profesional Final
 
-### 1. Campo profesional
+# 1. CAMPO PROFESIONAL
 ### 1. ¿Qué área dentro de la ingeniería en sistemas te gustaría desarrollar profesionalmente y por qué?
 
 Me interesa la arquitectura web y la inteligencia artificial. Me gusta porque puedo diseñar sistemas completos y además explorar cómo la IA puede mejorar las aplicaciones y hacerlas más inteligentes.
@@ -46,4 +46,28 @@ Quiero obtener la certificación AWS Developer, un curso de Docker y Kubernetes,
 ### 11. ¿Cómo te imaginas profesionalmente al finalizar tu carrera?
 
 Me veo trabajando en una empresa tecnológica sólida, liderando proyectos de IA innovadores, con un buen salario para viajar y seguir aprendiendo, desarrollando sistemas que realmente impacten y con un equipo donde todos colaboramos bien.
+# 4. ÉTICA Y PROFESIONALISMO
+
+### 12. ¿Qué significa para ti la integridad profesional dentro del ámbito de la ingeniería?
+
+Para mí la integridad profesional significa ser honesto con tu trabajo, no cortar esquinas aunque dé más trabajo, respetar la privacidad de los datos y siempre poner la seguridad y el bien de las personas por encima de plazos o ganancias.
+
+### 13. Describe un posible dilema ético que un ingeniero podría enfrentar en su trabajo. ¿Cómo actuarías tú ante esa situación?
+
+Un dilema podría ser cuando te piden meter una feature rápida sabiendo que tiene bugs de seguridad, pero el cliente quiere lanzarla ya para no perder mercado. Yo hablaría primero con mi jefe explicando los riesgos claros, documentaría todo por escrito y si no me hacen caso, escalaría al área de ética o compliance de la empresa.
+
+# 5. CIERRE DEL CURSO (RESPUESTAS DENTRO DEL REPOSITORIO)
+
+### 14. Menciona tres aprendizajes clave que te llevas de la materia "Campo Profesional del Ingeniero".
+
+Ya sé más qué onda con cómo se siente y se ve ser un ingeniero en sistemas de verdad, no solo código sino el mundo laboral real. Aprendí la importancia brutal de Git y el versionamiento para no volverte loco en equipo. Y entendí que las soft skills pesan tanto como las técnicas para destacar.
+
+### 15. ¿Qué cambiarías o mejorarías del curso para futuras generaciones?
+
+Yo sé que somos de primer semestre y. que el profe debe adaptarse a los estudiantes pero retarnos de verdad y ponernos más en la misma página de un desarrollador real, con proyectos más complejos y herramientas que se usan en empresas, no solo teoría. tal vez más adelante pase eso pero es que si me dan ansias de estar en algo más real, pero primero es el comiezo de un largo camino la verdad.
+
+### 16. Escribe una breve reflexión final sobre tu experiencia este semestre en la materia.
+
+Esta materia me abrió los ojos a lo que de verdad es ser ingeniero, más allá de programar. Me motivó a planear mejor mi carrera y entender que el éxito viene de combinar skills técnicas con profesionalismo. Buen cierre para arrancar con todo.
+## GRACIAS PROFE NOS SEGUIMOS VIENDO...
 

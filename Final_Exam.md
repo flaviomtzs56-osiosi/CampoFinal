@@ -25,4 +25,25 @@ Porque en proyectos reales siempre hay varios trabajando al mismo tiempo, y sin 
 ### 6. ¿Cómo aplicarías GitHub en un proyecto profesional o universitario en equipo?
 
 En un proyecto en equipo subo todo a un repo de GitHub, creo branches para cada feature, hago pull requests para que todos revisen antes de mergear a main, y uso issues para trackear tareas. Así todos vemos el progreso y evitamos conflictos.
+# 3. EXPECTATIVA PROFESIONAL Y FUTURO
+
+### 7. ¿Qué área de la carrera te gustaría explorar más a fondo en los próximos semestres?
+
+Quiero profundizar en arquitectura de software, inteligencia artificial y sistemas distribuidos con IA en tiempo real, como aplicaciones que procesan datos en la nube y toman decisiones inteligentes automáticamente. Me parece una de las áreas más interesantes del futuro.
+
+### 8. ¿Qué responsabilidades crees que tiene un ingeniero joven al incorporarse a su primer empleo?
+
+Un ingeniero joven debe aprender rápido el código base, no generar problemas, documentar bien su trabajo, preguntar cuando no entiende y aportar ideas nuevas con humildad.
+
+### 9. ¿Qué tendencia tecnológica consideras que será más importante en los próximos 5 años y porqué?
+
+La IA generativa y los agentes autónomos, porque van a transformar cómo se hace todo: desde programación hasta diseño, automatizando tareas repetitivas y dejando lo creativo para los humanos.
+
+### 10. ¿Qué certificaciones, cursos o habilidades extras te gustaría adquirir antes de graduarte?
+
+Quiero obtener la certificación AWS Developer, un curso de Docker y Kubernetes, y mejorar en machine learning con TensorFlow. También algo de DevOps para tener un perfil completo.
+
+### 11. ¿Cómo te imaginas profesionalmente al finalizar tu carrera?
+
+Me veo trabajando en una empresa tecnológica sólida, liderando proyectos de IA innovadores, con un buen salario para viajar y seguir aprendiendo, desarrollando sistemas que realmente impacten y con un equipo donde todos colaboramos bien.
 
